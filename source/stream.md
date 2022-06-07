@@ -11,7 +11,7 @@ permalink: stream.html
 
 
 ## 直播源更新
-HK
+[HK](https://github.com/dzvision/hexo-nexmoe-demo/releases/download/v0.1/HK.txt)
 HKTW
 海外
 Canada
