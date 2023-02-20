@@ -9,7 +9,7 @@
 
 | 站点                                  | 状态                                                         |
 | ------------------------------------- | ------------------------------------------------------------ |
-| **[在线预览 &rarr;](https://nexmoe-demo.kract.xyz)**  | ![繁华是客 Blog](https://img.shields.io/website?url=https://nexmoe-demo.kract.xyz)  |
+| **[在线预览 &rarr;](https://nexmoe-demo.withkr.xyz)**  | ![繁华是客 Blog](https://img.shields.io/website?url=https://nexmoe-demo.withkr.xyz)  |
 
 ## 致谢
 
